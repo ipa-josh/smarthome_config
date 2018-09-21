@@ -1,0 +1,13 @@
+	P -> P	P -> A	A -> P	A -> A		
+smarthome/items/Contact_Entrance/state	0.05	0.9	0.05	0.9
+smarthome/items/Switch_TV/state:ON	0.5	0.7	0.5	0.7
+smarthome/items/Switch_TV/state:OFF	0.8	0.5	0.8	0.5
+smarthome/items/Contact_Pantry/state	0.1	0.8	0.1	0.8
+smarthome/items/Alexa_Light_Bedroom/state:ON	0.05	1	0.05	1
+smarthome/items/Alexa_Light_Kitchen/state:ON	0.05	1	0.05	1
+smarthome/items/Alexa_Light_Room/state:ON	0.05	1	0.05	1
+smarthome/items/Alexa_Light_Bedroom/state:OFF	0.6	0.5	0.6	0.5
+smarthome/items/Alexa_Light_Kitchen/state:OFF	0.6	0.5	0.6	0.5
+smarthome/items/Alexa_Light_Room/state:OFF	0.6	0.5	0.6	0.5
+smarthome/items/PIR_Bath/state:ON	0.4	0.6	0.4	0.6
+smarthome/items/PIR_Kitchen/state:ON	0.4	0.6	0.4	0.6
